@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Resize angle, count, and stage on keypoint number change (#7598)
