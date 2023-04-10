@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
