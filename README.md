@@ -1,1 +1,1 @@
-add logs
+Auto-format by https://ultralytics.com/actions
