@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add new YOLOv8 OBB model metrics (#7379)
